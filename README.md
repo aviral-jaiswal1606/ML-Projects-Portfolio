@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aviral160605
-- 👀 I am a 2nd-year student at KIIT University
+- 👀 I am a 3rd-year student at KIIT University
 - 🌱 I’m pursuing Electronics and Computer Science Engineering.
 - 👾 My skills include Python, Java, data structures, and teamwork.
 - 💻  Passionate about embedded systems and problem-solving. 🚀💻
