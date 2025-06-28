@@ -28,4 +28,4 @@ A collection of beginner to intermediate-level machine learning projects impleme
 ## 📌 Author
 **Aviral Jaiswal**  
 Final Year Student | Machine Learning Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)  
+[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/)) | [Portfolio](https://yourportfolio.com)  
